@@ -51,4 +51,4 @@ Certification / Courses
 My Work
 
     Portfolio: https://nareshkumar8740908405.github.io/myportfolio/
-    LinkedIn: linkedin.com/in/naresh-kumar-a24b35228/
+    LinkedIn: linkedin.com/in/nareshk8740
