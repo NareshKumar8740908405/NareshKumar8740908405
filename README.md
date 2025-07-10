@@ -2,7 +2,9 @@ Naresh Kumar
 
 Full Stack Developer
 New Delhi | nareshk874090@gmail.com
+
 Experience
+
 Full Stack Developer
 
 Stucare Technology Pvt Ltd  | NOV 2023 – JUN 2024, Uttar Pardesh
